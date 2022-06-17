@@ -28,7 +28,7 @@ switch ($select){
         break;
     case 2:
         $a = (int)readline('a');
-        $b = (int)realdine('b');
+        $b = (int)readline('b');
         echo rec($a, $b);
         break;
     case 3:

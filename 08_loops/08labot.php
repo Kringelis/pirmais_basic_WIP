@@ -10,4 +10,4 @@ for ($i = $min; $i < $max; $i++) {
         }
     }
 }
-echo 'sakāve';
+echo 'jāpabeidz';
